@@ -257,3 +257,41 @@ Turn off rules that are too hard to fix at this time or you have already made a 
 ## Keep the Signal
 
 Look for general trends. As well as cutting out any junk from the tools.
+
+~~~~
+## Sonar
+
+A dashboard for all your static checking information.
+
+~~
+## Sonar via Jenkins
+
+Configure a Jenkins to talk to the Sonar server.
+
+![Sonar Config](images/sonar-config.png)
+
+~~
+## Sonar Job Config
+
+Add sonar to a build. Configure if needed.
+
+![Sonar Config 3](images/sonar-config3.png)
+
+~~
+## Sonar POM
+
+We need a pom file to let sonar know where all the artifacts are.
+
+[Example Pom](https://gist.github.com/beckje01/6062791)
+
+[WIP Grails Plugin](https://github.com/beckje01/grails-sonar)
+
+~~
+## Use Sonar
+
+![Sonar Dashboard](images/sonar-dashboard.png)
+
+~~
+## Sonar Demo
+
+No Slide Content
