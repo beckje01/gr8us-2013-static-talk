@@ -6,6 +6,7 @@
 * The Tools
 * Jenkins
 * Dealing with Old Code
+* Sonar
 ~~~~
 ## What is Static Analysis
 
