@@ -7,12 +7,12 @@
 * Jenkins
 * Dealing with Old Code
 * Sonar
+
 ~~~~
 ## What is Static Analysis
 
 Information about your code that is properties of your code. Mostly obtained by looking at your code statically not looking at runtime or dynamic data.
-~~
-
+~~~~
 ## What it Catches
 
 Items there are 'easy' rules to enforce.
